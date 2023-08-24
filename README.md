@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm Deangelly Figueiredo, a passionate software engineer and currently working as a tech leader.
 
 ### About Me
+
 🚀 I'm currently working as a Software Engineering Team Leader, where I lead a team of talented developers to create innovative and robust software solutions.
 
 👨‍💻 Responsible for leading the development and maintenance of applications focused on Typescript, Nest.js, Node.js, .NET, and Angular, ensuring integration between front-end and back-end.
